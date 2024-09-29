@@ -29,8 +29,3 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### Experience:
-- **IT Intern** @ Young Achievers Foundation Ghana (June 2024 – Aug 2024): Restructured websites, mentored students in C++ programming, and tested web functionality.
-- **Student Assistant** @ NYU Abu Dhabi Athletics (Jan 2024 – April 2024): Developed a randomization program, managed bike fleet records, and facilitated rentals.
-- **Intern** @ GhanaTech Lab (Sept 2022 – Dec 2022): Created cross-platform mobile apps using Flutter, and implemented real-time data display through external APIs.
-
