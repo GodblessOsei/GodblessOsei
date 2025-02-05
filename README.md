@@ -3,8 +3,8 @@
 # 👋 Hi, I’m Godbless Osei
 
 - 👀 I’m interested in Data Science, Software Development, and Cross-Platform Mobile Applications.
-- 🌱 I’m currently learning advanced algorithms, applied mathematics, and exploring frameworks like Flutter and Unity.
-- 💞️ I’m looking to collaborate on open-source projects, particularly in mobile app development, web optimization, and scientific computing (like thermal simulations).
+- 🌱 I’m currently studying BSc. Computer Science with a minor in Applied Mathematics at NYU Abu Dhabi
+- 💞️ I’m looking for opportunities to explore, learn new things, and build.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/godbless-osei-15b505287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | gmo6996@nyu.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve helped develop a virtual concert for users who can’t attend live shows, making tech more inclusive!
@@ -27,5 +27,5 @@
 - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 - ![STATA](https://img.shields.io/badge/STATA-1A69A4?style=for-the-badge&logo=stata&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
