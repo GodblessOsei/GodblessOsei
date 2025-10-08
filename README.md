@@ -26,6 +26,6 @@
 - ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 - ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 - ![STATA](https://img.shields.io/badge/STATA-1A69A4?style=for-the-badge&logo=stata&logoColor=white)
-- ![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
