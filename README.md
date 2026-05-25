@@ -1,10 +1,8 @@
 # Hi there, I’m Godbless Osei
 
-I get into the soul of programming, understanding systems at their core  
-I’m interested in cross-platform software development, with a deep passion for low-level systems work and programming at the foundations.  
-I also work with higher-level technologies, especially in web development, to stay fluent across the entire stack.
+CS student at NYU. I build things across the stack: from OS-level systems to AI-powered web apps. Currently exploring agentic AI workflows, 
+static analysis tools, and the intersection of technology and real-world impact.
 
----
 
 ## Tech Stack
 
@@ -73,8 +71,10 @@ Minor: Applied Mathematics
 
 ---
 
-## Currently  
-Building immersive virtual experiences at **Golden Gloves VR**, working inside **Meta Horizon Worlds** on interactive systems and spatial logic.
+## Experience
+- **VR/AR Developer Intern, Engine Room VR** — Built immersive experiences in Meta Horizon Worlds, implementing interactive systems and spatial logic.
+- **Programming Instructor, Young Achievers Foundation Ghana** — Taught C++ and Python to students, designing curriculum and hands-on coding exercises.
+- **Mathematics Course Assistant, NYU Abu Dhabi** — Support calculus 1&2 instruction through prep support
 
 ---
 
